@@ -1,7 +1,7 @@
 ### Olá, Me chamo Kaio Vieira.
 
 
-- 🔭 Estou praticando C#, Javascript, ASP Classic e SQL Server
+- 🔭 Estou praticando C#, Javascript, SQL Server
 - 😄 Pronome: Ele/Dele
 
 
