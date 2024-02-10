@@ -1,7 +1,10 @@
 ### Olá, Me chamo Kaio Vieira.
 
 
-- 🔭 Estou praticando C#, Javascript, SQL Server
+- 🔭 Estou praticando Tailwind, Javascript
+- ❤️ Familiariazado com : C#, Efcore, SQL Server,React Js,TypeScript,Git,Bootstrap
+  
+
 - 😄 Pronome: Ele/Dele
 
 
@@ -23,10 +26,8 @@
   ##
   
   <div> 
-  <a href="https://www.youtube.com/channel/UCS7GmoMC1WCxaLoNxUT1Lcw" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-  <a href="https://instagram.com/brunadan7as" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- <a href="https://discord.gg/wagxzStdcR" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:b.dantassoares@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/bruna-dantas-839320198/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  
+  <a href = "mailto:kaiovieira100@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/tiokaio/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
 </div>
